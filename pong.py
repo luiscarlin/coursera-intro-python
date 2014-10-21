@@ -1,6 +1,7 @@
 # PONG
 
-import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
+import pygame
 import random
 
 # globals **************************************

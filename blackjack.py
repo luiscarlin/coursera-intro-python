@@ -1,6 +1,7 @@
 # Blackjack
 
-import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
+import pygame
 import random
 
 # load card sprite - 949x392 - source: jfitz.com

@@ -1,7 +1,6 @@
 # implementation of Spaceship - program template for RiceRocks
 import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 import pygame
-#import simplegui
 import math
 import random
 

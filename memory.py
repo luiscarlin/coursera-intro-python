@@ -1,6 +1,7 @@
 # Memory Game
 
-import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
+import pygame
 import random
 
 CANVAS_HEIGHT = 100
